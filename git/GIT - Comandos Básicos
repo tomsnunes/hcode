@@ -12,7 +12,7 @@ git init
 Adicionar Arquivos
 git add --all
 
-Commit
+Stage Area
 git commit -m "First Commit"
 
 Configurar Origin
