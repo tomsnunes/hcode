@@ -18,5 +18,8 @@ git commit -m "First Commit"
 Configurar Origin
 git remote add origin https://github.com/tomsnunes/hcode.git
 
-Push Master
+Enviar Arquivos do Repositório
 git push -u origin master
+
+Receber Arquivos do Repositório
+git pull origin master
